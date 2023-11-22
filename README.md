@@ -57,7 +57,5 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zedatrix&show_icons=true&theme=chartreuse-dark" alt="Zedatrix's github stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedatrix&layout=donut" alt="Zedatrix's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedatrix&layout=donut&theme=chartreuse-dark" alt="Zedatrix's github stats" />
 </p>
