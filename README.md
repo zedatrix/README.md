@@ -62,9 +62,9 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=@zedatrix&layout=compact&theme=chartreuse-dark" alt="Zedatrix's github stats" />
   </td>
 </tr>
-<tr style="border: none;">
-  <td style="border: none;"><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedatrix&include_all_commits=true&layout=donut&theme=chartreuse-dark" alt="Zedatrix's github stats" /></td>
-  <td style="border: none;"><img align="bottom" src="https://github-readme-stats.vercel.app/api?username=zedatrix&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark" alt="Zedatrix's github stats" /></td>
+<tr style="border:none !important;">
+  <td style="border:none !important;"><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedatrix&include_all_commits=true&layout=donut&theme=chartreuse-dark" alt="Zedatrix's github stats" /></td>
+  <td style="border:none !important;"><img align="bottom" src="https://github-readme-stats.vercel.app/api?username=zedatrix&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark" alt="Zedatrix's github stats" /></td>
 </tr>
 </table>
 </p>
