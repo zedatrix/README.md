@@ -1,10 +1,11 @@
 <h1 align="center">Hello I'm Zedd!</h1>
 <br />
 
-<p align="center">Welcome to my profile! Im a self-taught developer with a passion for AI and various programming languages. Feel free to connect with me on Discord or visit my website to learn more about my projects and contributions.</p>
+<p align="center">Welcome to my profile! Im a self-taught developer with a passion for AI and various programming languages.
+  <br />Feel free to connect with me on Discord or visit my website to learn more about my projects and contributions.</p>
 
 <p align="center">
-  <a href="https://discord.gg/autogpt">AutoGPT Discord</a> |
+  <a href="https://www.linkedin.com/in/ethanpresberg/">Connect with me on LinkedIn</a> |
   <a href="https://github.com/zedatrix/zedatrix/issues">Ask me anything</a> |
   <a href="https://discordapp.com/users/353333325961756674">My Discord profile</a> |
   <a href="https://getjaida.com/">My Website</a> |
