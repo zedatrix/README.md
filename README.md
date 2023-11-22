@@ -1,4 +1,4 @@
-<h1 align="center">Hello Im Zedd!</h1>
+<h1 align="center">Hello I'm Zedd!</h1>
 <br />
 
 <p align="center">Welcome to my profile! Im a self-taught developer with a passion for AI and various programming languages. Feel free to connect with me on Discord or visit my website to learn more about my projects and contributions.</p>
@@ -57,4 +57,7 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zedatrix&show_icons=true&theme=chartreuse-dark" alt="Zedatrix's github stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedatrix&layout=donut" alt="Zedatrix's github stats" />
 </p>
