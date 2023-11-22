@@ -56,6 +56,7 @@
   <br />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zedatrix&show_icons=true&theme=chartreuse-dark" alt="Zedatrix's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedatrix&layout=donut&theme=chartreuse-dark" alt="Zedatrix's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedatrix&include_all_commits=true&layout=donut&theme=chartreuse-dark" alt="Zedatrix's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zedatrix&include_all_commits=true&layout=compact&theme=chartreuse-dark" alt="Zedatrix's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zedatrix&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=chartreuse-dark" alt="Zedatrix's github stats" />
 </p>
