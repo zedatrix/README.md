@@ -24,6 +24,7 @@
     <code><img height="30" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
     <code><img height="30" alt="Webpack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg"></code>
   </p>
+  <br />
   <p>
     <b><u>Back End</u></b>
     <code><img height="30" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
@@ -43,16 +44,19 @@
     <code><img height="30" alt="Laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
     <code><img height="30" alt="Jenkins" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"></code>
   </p>
+  <br />
   <p>
     <b><u>Testing</u></b>
     <code><img height="30" alt="Jasmine" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg"></code>  
   </p>
+  <br />
   <p>
     <b><u>Other</u></b>
     <code><img height="30" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
     <code><img height="30" alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
     <code><img height="30" alt="Slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"></code>
   </p>
+  <br />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zedatrix&show_icons=true&theme=radical" alt="Zedatrix's github stats" />
