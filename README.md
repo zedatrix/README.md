@@ -13,6 +13,7 @@
 <p align="center">
   <p>
     <b><u>Front End</u></b>
+    <br />
     <code><img height="30" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
     <code><img height="30" alt="Html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
     <code><img height="30" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code> 
@@ -24,9 +25,9 @@
     <code><img height="30" alt="Typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
     <code><img height="30" alt="Webpack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg"></code>
   </p>
-  <br />
   <p>
     <b><u>Back End</u></b>
+    <br />
     <code><img height="30" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
     <code><img height="30" alt="Lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"></code>
     <code><img height="30" alt="Apache" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg"></code>
@@ -44,14 +45,14 @@
     <code><img height="30" alt="Laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
     <code><img height="30" alt="Jenkins" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"></code>
   </p>
-  <br />
   <p>
     <b><u>Testing</u></b>
+    <br />
     <code><img height="30" alt="Jasmine" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg"></code>  
   </p>
-  <br />
   <p>
     <b><u>Other</u></b>
+    <br />
     <code><img height="30" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
     <code><img height="30" alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
     <code><img height="30" alt="Slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"></code>
