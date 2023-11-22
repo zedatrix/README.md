@@ -1,4 +1,4 @@
-<p align="center">Hello Im Zedd!</p>
+<h1 align="center">Hello Im Zedd!</h1>
 <br />
 
 <p align="center">Welcome to my profile! Im a self-taught developer with a passion for AI and various programming languages. Feel free to connect with me on Discord or visit my website to learn more about my projects and contributions.</p>
@@ -12,8 +12,7 @@
 
 <p align="center">
   <p>
-    <b><u>Front End</u></b>
-    <br />
+    <h2>Front End</h2>
     <code><img height="30" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
     <code><img height="30" alt="Html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
     <code><img height="30" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code> 
