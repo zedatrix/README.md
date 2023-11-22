@@ -1,14 +1,13 @@
-<p align="center">Hello Im Bently!</p>
+<p align="center">Hello Im Zedd!</p>
 <br />
 
-<p align="center">Welcome to my profile! Im a self-taught developer with a passion for Python and various other programming languages. I'm also the Head Support for AutoGPT's Discord community. Feel free to connect with me on Discord or visit my website to learn more about my projects and contributions.</p>
+<p align="center">Welcome to my profile! Im a self-taught developer with a passion for AI and various programming languages. Feel free to connect with me on Discord or visit my website to learn more about my projects and contributions.</p>
 
 <p align="center">
   <a href="https://discord.gg/autogpt">AutoGPT Discord</a> |
   <a href="https://github.com/Bentlybro/Bentlybro/issues">Ask me anything</a> |
-  <a href="https://discordapp.com/users/353922987235213313">My Discord profile</a> |
-  <a href="https://site.bentlybro.com/">My Website</a> |
-  <a href="https://github.com/Git-Discord">Git-Discord Bot</a>
+  <a href="https://discordapp.com/users/353333325961756674">My Discord profile</a> |
+  <a href="https://getjaida.com/">My Website</a> |
 </p>
 
 <p align="center">
@@ -30,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bentlybro&show_icons=true&theme=radical" alt="Bentlybros's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zedatrix&show_icons=true&theme=radical" alt="Zedatrix's github stats" />
 </p>
