@@ -25,8 +25,7 @@
     <code><img height="30" alt="Webpack" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg"></code>
   </p>
   <p>
-    <b><u>Back End</u></b>
-    <br />
+    <h2>Back End</h2>
     <code><img height="30" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
     <code><img height="30" alt="Lua" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg"></code>
     <code><img height="30" alt="Apache" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg"></code>
@@ -45,13 +44,11 @@
     <code><img height="30" alt="Jenkins" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"></code>
   </p>
   <p>
-    <b><u>Testing</u></b>
-    <br />
+    <h2>Testing</h2>
     <code><img height="30" alt="Jasmine" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg"></code>  
   </p>
   <p>
-    <b><u>Other</u></b>
-    <br />
+    <h2>Other</h2>
     <code><img height="30" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
     <code><img height="30" alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
     <code><img height="30" alt="Slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"></code>
