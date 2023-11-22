@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://discord.gg/autogpt">AutoGPT Discord</a> |
-  <a href="https://github.com/Bentlybro/Bentlybro/issues">Ask me anything</a> |
+  <a href="https://github.com/zedatrix/zedatrix/issues">Ask me anything</a> |
   <a href="https://discordapp.com/users/353333325961756674">My Discord profile</a> |
   <a href="https://getjaida.com/">My Website</a> |
 </p>
